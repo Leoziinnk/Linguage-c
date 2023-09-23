@@ -1,3 +1,4 @@
 # Hello Word, my name is Leonardo!
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leoziinnk)](https://github.com/Leoziinnk/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leoziinnk)]
+![Leoziinnk GitHub stats](https://github-readme-stats.vercel.app/api?username=leoziinnk&show_icons=true&theme=synthwave)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leozinnk&layout=pie&show_icons=true&theme=synthwave)](https://github.com/leoziink/github-readme-stats)
+
